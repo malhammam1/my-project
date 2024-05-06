@@ -1,5 +1,5 @@
 # my-project
-##Project Overview
+Project Overview
 This project analyzes mental health conditions within the tech industry, focusing on the factors influencing whether individuals seek treatment for mental health issues. The aim is to provide insights that can assist tech companies in crafting more supportive environments for mental health.
 
 ##Hypothesis
