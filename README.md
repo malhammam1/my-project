@@ -19,6 +19,7 @@ Random Forest Classifier: Known for handling complex patterns better than logist
 The models were assessed using accuracy, precision, recall, and F1-score on a test set. Confusion matrices provided detailed insights into each model's performance, highlighting true positives, false positives, true negatives, and false negatives. 
 
 **Results and Key Takeaways:**
+
 -Both models showed that family history is a significant predictor of seeking treatment. 
 
 - Individuals with a family history of mental health issues are more likely to seek treatment.
