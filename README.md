@@ -6,7 +6,7 @@ This project analyzes mental health conditions within the tech industry, focusin
 The primary hypothesis is that individuals with a family history of mental health issues are more likely to seek treatment for their own mental health problems compared to those without a similar family background.
 
 **Dataset Description:**
-The dataset originates from a survey targeting individuals in the tech industry across various countries, encompassing variables like Age, Gender, Country, self-employed status, family history of mental health issues, treatment for mental health issues, work interference due to mental health, and the number of employees in their company. The data was meticulously cleaned to address missing values, normalize text entries, and eliminate duplicates.
+The dataset originates from a survey targeting individuals in the tech industry across various countries, encompassing variables like Age, Gender, Country, self-employed status, family history of mental health issues, treatment for mental health issues, work interference due to mental health. The data was meticulously cleaned to address missing values, normalize text entries, and eliminate duplicates.
 
 **Methods:**
 Two machine learning models were employed to predict the likelihood of individuals seeking mental health treatment:
