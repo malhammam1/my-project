@@ -19,7 +19,7 @@ Random Forest Classifier: Known for handling complex patterns better than logist
 The models were assessed using accuracy, precision, recall, and F1-score on a test set. Confusion matrices provided detailed insights into each model's performance, highlighting true positives, false positives, true negatives, and false negatives. 
 
 **Results and Key Takeaways:**
-Both models showed that family history is a significant predictor of seeking treatment. The Random Forest model slightly outperformed the Logistic Regression model in F1-score, underscoring its capability to manage the dataset's complexities effectively.
+-Both models showed that family history is a significant predictor of seeking treatment. 
 
-Importance of Family History: Individuals with a family history of mental health issues are more likely to seek treatment.
-Model Selection: While Logistic Regression offers a quick and understandable model, Random Forest provides a more nuanced understanding but at the cost of being computationally intensive.
+- Individuals with a family history of mental health issues are more likely to seek treatment.
+
