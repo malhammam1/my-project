@@ -16,7 +16,7 @@ Logistic Regression: This model was chosen for its simplicity and effectiveness 
 Random Forest Classifier: Known for handling complex patterns better than logistic regression, this model uses multiple decision trees to prevent overfitting and improve predictive accuracy.
 
 **Model Evaluation:**
-The models were assessed using accuracy, precision, recall, and F1-score on a test set. Confusion matrices provided detailed insights into each model's performance, highlighting true positives, false positives, true negatives, and false negatives. Efforts were made to minimize overfitting and underfitting to ensure robustness.
+The models were assessed using accuracy, precision, recall, and F1-score on a test set. Confusion matrices provided detailed insights into each model's performance, highlighting true positives, false positives, true negatives, and false negatives. 
 
 **Results and Key Takeaways:**
 Both models showed that family history is a significant predictor of seeking treatment. The Random Forest model slightly outperformed the Logistic Regression model in F1-score, underscoring its capability to manage the dataset's complexities effectively.
