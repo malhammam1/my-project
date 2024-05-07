@@ -12,6 +12,7 @@ The dataset originates from a survey targeting individuals in the tech industry 
 Two machine learning models were employed to predict the likelihood of individuals seeking mental health treatment:
 
 Logistic Regression: This model was chosen for its simplicity and effectiveness in binary classification tasks, providing a solid baseline for performance comparison.
+
 Random Forest Classifier: Known for handling complex patterns better than logistic regression, this model uses multiple decision trees to prevent overfitting and improve predictive accuracy.
 
 **Model Evaluation:**
