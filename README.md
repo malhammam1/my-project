@@ -22,5 +22,5 @@ The models were assessed using accuracy, precision, recall, and F1-score on a te
 
 -Both models showed that family history is a significant predictor of seeking treatment. 
 
-- Individuals with a family history of mental health issues are more likely to seek treatment.
+-Individuals with a family history of mental health issues are more likely to seek treatment.
 
